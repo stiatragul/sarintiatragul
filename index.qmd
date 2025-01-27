@@ -1,11 +1,40 @@
 ---
-title: "sarintiatragul"
+title: "Sarin 'Putter' Tiatragul"
+image: assets/avatar.jpg
+toc: false
+about:
+  template: trestles
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/sarintiatragul/
+    - text: GitHub
+      href: https://github.com/stiatragul
+    - text: Email
+      href: mailto:sarin.tiatragul@anu.edu.au
+    - text: Google Scholar
+      href: https://scholar.google.com.au/citations?hl=en&pli=1&user=TwZonhIAAAAJ
 ---
 
-This is a Quarto website.
+I'm fascinated by how organisms came to be the way they are. I enjoy learning about natural history, making scientific knowledge understandable for people around the world, and bringing people together to do something fun and useful.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Currently, I'm a postdoc in the [Keogh Lab](http://keoghlab.com) at the Australian National University (ANU) where I did my thesis on the macroevolution of Australian blindsnakes. Before coming to the ANU, I completed my M.S. in Biological Sciences at Auburn University under the supervision of Dr. [Dan Warner](http://warnerlab.weebly.com/people.html) studying developmental plasticity of reptiles.
 
-```{r}
-1 + 1
-```
+Apart from research, I like photography, scuba diving, playing and refereeing football (soccer), and seeing as much of the world as possible. Whenever possible, I spend time in nature and immerse myself into different cultures to appreciate the (bio)diversity of life.
+
+Thanks for visiting my website!
+
+สาริน เตียตระกูล (พัตเตอร์)
+
+## Education
+
+The Australian National University \| Canberra, Australia PhD in Biology \| June 2019 April 2024
+
+Auburn University \| Auburn, Alabama, USA M.S Biological Sciences \| Jan 2017 - Dec 2018
+
+Gonzaga University \| Spokane, Washington, USA B.S Biology \| Aug 2012 - May 2016
+
+## Experience
+
+ANU \| Postdoctoral Researcher \| 2024 - Present

@@ -1,9 +1,9 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: public
 
 website:
-  title: "sarintiatragul"
+  title: "Sarin Tiatragul"
   navbar:
     left:
       - href: index.qmd
@@ -12,9 +12,12 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
