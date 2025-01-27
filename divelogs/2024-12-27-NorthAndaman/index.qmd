@@ -1,0 +1,112 @@
+---
+title: "2024 North Andaman Liveaboard"
+description: "End of year North Andaman Trip"
+author:
+  - name: Putter Tiatragul
+categories: [dive]
+date: 2024-12-31
+draft: false
+image: 20241230-PC302295.jpg
+---
+
+Boat: ScubaNet
+
+สนุกมากทริปนี้
+
+![Ribbon eel at Richelieu Rock around 30m](20241229-PC292007.jpg){fig-align="center" width="70%"}
+
+![nudibranch we found during a night dive](20241230-PC302417.jpg){fig-align="center" width="70%"}
+
+![School of barracuda at Tachai Pinnacle with Candy in the foreground](20241230-PC302295.jpg){fig-align="center" width="70%"}
+
+```         
+Dive site: Zodiac, Similas No,5
+Buddy: Candy B.
+Rating: ****
+Visibility: *****
+Date / time: 2024-12-28 8:38 AM
+
+Dive site: West of Eden; Similan No. 7
+Buddy: Candy B.
+Rating: ****
+Visibility: ****
+Date / time: 2024-12-28 12:09 PM
+
+Dive site: Koh Bon; North Andaman
+Buddy: Candy B.
+Rating: ****
+Visibility: ****
+Date / time: 2024-12-28 4:19 PM
+
+Dive site: Koh Bon; North Andaman
+Buddy: Candy B.
+Rating: ****
+Visibility: 
+Date / time: 2024-12-28 7:12 PM
+
+Dive site: Koh Bon; North Andaman
+Buddy: Candy B.
+Rating: ****
+Visibility: 
+Date / time: 2024-12-28 7:12 PM
+
+Dive site: Richelieu Rock
+Buddy: Candy B.
+Rating: *****
+Visibility: 
+Date / time: 2024-12-29 8:30 AM
+
+Dive site: Richelieu Rock
+Buddy: Candy B.
+Rating: *****
+Visibility: 
+Date / time: 2024-12-29 12:13 PM
+
+Dive site: Turtle Bay; Surin Islands NP
+Buddy: Candy B.
+Rating: ***
+Visibility: 
+Date / time: 2024-12-29 4:47 PM
+
+Dive site: Turtle Bay; Surin Islands NP
+Buddy: Candy B.
+Rating: ***
+Visibility: 
+Date / time: 2024-12-29 4:47 PM
+
+Dive site: Turtle Bay; Surin Islands NP
+Buddy: Candy B.
+Rating: ***
+Visibility: 
+Date / time: 2024-12-29 4:47 PM
+
+Dive site: Koh Bon; North Andaman
+Buddy: Candy B.
+Rating: 
+Visibility: 
+Date / time: 2024-12-30 11:49 AM
+
+Dive site: Three Trees; Similan Island NP
+Buddy: Candy B.
+Rating: ****
+Visibility: 
+Date / time: 2024-12-30 3:19 PM
+
+Dive site: Donald Duck Bay, Similans No. 8
+Buddy: 
+Rating: ****
+Visibility: 
+Date / time: 2024-12-30 7:10 PM
+
+Dive site: Elephant Head Rock; Similan Islands NP
+Buddy: Candy B.
+Rating: ****
+Visibility: 
+Date / time: 2024-12-31 8:24 AM
+
+Dive site: West of Eden; Similan No. 7
+Buddy: Bee S.
+Rating: ***
+Visibility: 
+Date / time: 2024-12-31 11:59 AM
+```

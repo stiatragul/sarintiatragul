@@ -1,0 +1,52 @@
+---
+title: "HTMS Chang Wreck"
+description: "The biggest wreck in Thailand as of 2024"
+author:
+  - name: Putter Tiatragul
+categories: [dive]
+date: 2025-01-09
+draft: false
+image: 20250109-P1092806.jpg
+---
+
+Boat: Chang Diving
+
+The first dive at HTMS Chang wreck is arguably one of my favourite dives of all time. The conditions were near perfect with great visibility and barely any current. We were the first boat to arrive at the site so we felt like we had the whole wreck to ourselves. Big schools of fish everywhere and this wreck is the biggest I've ever dived so far, at \~100m. Very interesting and hopefully I'd be able to come back and penetrate it one day.
+
+![Fish in the HTMS Chang Wreck](20250110-P1102962.jpg){width="70%"}
+
+![Batfish at the stern](20250110-P1102976.jpg){width="70%"}
+
+![Whale shark above the wreck](20250109-P1092873.jpg){width="70%"}
+
+```         
+Dive site: Hin Luk Bat; Koh Chang
+Rating: **
+Visibility: 
+Date / time: 2025-01-10 1:56 PM
+
+Dive site: Hin Luk Bat; Koh Chang
+Rating: ***
+Visibility: **
+Date / time: 2025-01-10 12:00 PM
+
+Dive site: HTMS Chang; Koh Chang
+Rating: *****
+Visibility: *****
+Date / time: 2025-01-09 10:09 AM
+
+Dive site: Bluebuerry Hill; Koh Chang
+Rating: ***
+Visibility: 
+Date / time: 2025-01-09 12:08 PM
+
+Dive site: HTMS Chang; Koh Chang
+Rating: *****
+Visibility: *****
+Date / time: 2025-01-09 10:09 AM
+
+Dive site: HTMS Chang; Koh Chang
+Rating: *****
+Visibility: *****
+Date / time: 2025-01-09 10:09 AM
+```
