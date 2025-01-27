@@ -8,7 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - divelog.qmd # add your listing page file to your navbar, just like you would any other new web page
 
 format:
   html:
