@@ -31,9 +31,9 @@ Visibility: **
 Date / time: 2025-01-10 12:00 PM
 
 Dive site: HTMS Chang; Koh Chang
-Rating: *****
-Visibility: *****
-Date / time: 2025-01-09 10:09 AM
+Rating: ****
+Visibility: 
+Date / time: 2025-01-10 10:08 AM
 
 Dive site: Bluebuerry Hill; Koh Chang
 Rating: ***
