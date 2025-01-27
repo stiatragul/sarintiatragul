@@ -11,8 +11,8 @@ about:
       href: https://www.linkedin.com/in/sarintiatragul/
     - text: GitHub
       href: https://github.com/stiatragul
-    - text: Email
-      href: mailto:sarin.tiatragul@anu.edu.au
+    # - text: Email
+    #   href: mailto:sarin.tiatragul@anu.edu.au
     - text: Google Scholar
       href: https://scholar.google.com.au/citations?hl=en&pli=1&user=TwZonhIAAAAJ
 ---
@@ -23,17 +23,15 @@ Currently, I'm a postdoc in the [Keogh Lab](http://keoghlab.com) at the Australi
 
 Apart from research, I like photography, scuba diving, playing and refereeing football (soccer), and seeing as much of the world as possible. Whenever possible, I spend time in nature and immerse myself into different cultures to appreciate the (bio)diversity of life.
 
-Thanks for visiting my website!
-
 สาริน เตียตระกูล (พัตเตอร์)
 
 ## Education
 
-The Australian National University \| Canberra, Australia PhD in Biology \| June 2019 April 2024
+The Australian National University \| PhD in Biology \| 2019 -- 2024
 
-Auburn University \| Auburn, Alabama, USA M.S Biological Sciences \| Jan 2017 - Dec 2018
+Auburn University \| Biological Sciences \| 2017 -- 2018
 
-Gonzaga University \| Spokane, Washington, USA B.S Biology \| Aug 2012 - May 2016
+Gonzaga University \| B.S Biology \| 2012 -- 2016
 
 ## Experience
 
