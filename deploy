@@ -1,0 +1,19 @@
+
+.PHONY: deploy
+deploy: build upload
+
+.PHONY: upload
+upload:
+	rclone sync public b2:sarintiatragul/ --progress
+	# 2025-04-20 I'm changing so the page serves to a root directory instead of another folder called sarintiatragul.com 
+	# On Laptop use b2  or check rclone config
+	# rclone sync public b2:sarintiatragul/sarintiatragul.com --progress
+	# rclone sync public sarintiatragul:sarintiatragul/sarintiatragul.com --progress
+
+.PHONY: build
+build:
+	# hugo
+	quarto render
+
+.PHONY: serve
+	hugo serve -DEF
