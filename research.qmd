@@ -4,11 +4,13 @@ title: "Research"
 
 ## 2024 - Present
 
-**Keogh Lab - Phylogenomics of Australian reptiles**
+**Keogh Lab - Phylogenomics of Australian reptiles and conservation genetics of corroboree frogs.**
 
 **Australian National University \| Canberra, Australia**
 
-As a postdoc with Scott Keogh, I am involved with inferring phylogenomic trees for several groups of Australian reptiles as part of the Australian Amphibian and Reptile Genome (AusARG) project.
+As a postdoc with Scott Keogh, I am involved with inferring phylogenomic trees for several groups of Australian reptiles as part of the Australian Amphibian and Reptile Genome (AusARG) project. I'm also working with industry partners (Taronga Zoo, Zoos Vic, and Tidbinbilla Nature Reserve) on the conservation of the endangered corroborree frogs.
+
+### 
 
 ## 2019 - 2024
 
@@ -16,7 +18,7 @@ As a postdoc with Scott Keogh, I am involved with inferring phylogenomic trees f
 
 **Australian National University \| Canberra, Australia**
 
-My PhD research consisted of two major parts. This first part involved extracting DNA from tissues deposited in museums across Australia, sequencing the DNA, and infferring a phylogeny for the Australian blindsnake genus *Anilios*. In the second part I used the phylogeny to test hypotheses about biogeographical history of the group, diversification dynamics, and how traits evolved in this continental radiation of ecologically conserved group.
+My PhD research consisted of two major parts. This first part involved extracting DNA from tissues deposited in museums across Australia, sequencing the DNA, and inferring a phylogeny for the Australian blindsnake genus *Anilios*. In the second part I used the phylogeny to test hypotheses about biogeographical history of the group, diversification dynamics, and how traits evolved in this continental radiation of ecologically conserved group.
 
 ## 2017-2018
 
