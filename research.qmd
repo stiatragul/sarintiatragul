@@ -4,13 +4,15 @@ title: "Research"
 
 ## 2024 - Present
 
-**Keogh Lab - Phylogenomics of Australian reptiles and conservation genetics of corroboree frogs.**
+**Keogh Lab - Conservation genomics of corroboree frogs and phylogenomics of Australian reptiles**
 
 **Australian National University \| Canberra, Australia**
 
-As a postdoc with Scott Keogh, I am involved with inferring phylogenomic trees for several groups of Australian reptiles as part of the Australian Amphibian and Reptile Genome (AusARG) project. I'm also working with industry partners (Taronga Zoo, Zoos Vic, and Tidbinbilla Nature Reserve) on the conservation of the endangered corroborree frogs.
+Current project:
+**Conservation genomics of corroboree frogs** (*Biological diversification across Australia in space and time*, ARC DP230100187). I lead population genomic analyses of captive and wild corroboree frogs and turn the results into breeding recommendations for the captive breeding program. These recommendations aim to increase genetic diversity and avoid inbreeding, and I develop them with our conservation partners: Taronga Zoo, Zoos Victoria, Tidbinbilla Nature Reserve and the ACT Government. I'm also going to be working on a more broad level macroevolutionary analyses on Australian frogs.
 
-### 
+Past project:
+**Phylogenomics of Australian reptiles and amphibians** (*Disentangling the drivers of Australian animal diversity*, ARC DP210100820 between, part of the Australian Amphibian and Reptile Genomics (AusARG) initiative). I assembled and analysed phylogenomic datasets and inferred phylogenetic trees for Australian reptiles and amphibians. The main output is a phylogenomic study of Australian diplodactylid geckos, of which I am first author: [Aridification and habitat shifts are associated with diversification in Australian diplodactylid geckos](https://doi.org/10.1093/sysbio/syag066) (*Systematic Biology*, 2026). I am also a co-author on other AusARG phylogenomic publications.
 
 ## 2019 - 2024
 
@@ -18,9 +20,9 @@ As a postdoc with Scott Keogh, I am involved with inferring phylogenomic trees f
 
 **Australian National University \| Canberra, Australia**
 
-My PhD research consisted of two major parts. This first part involved extracting DNA from tissues deposited in museums across Australia, sequencing the DNA, and inferring a phylogeny for the Australian blindsnake genus *Anilios*. In the second part I used the phylogeny to test hypotheses about biogeographical history of the group, diversification dynamics, and how traits evolved in this continental radiation of ecologically conserved group.
+My PhD research consisted of two major parts. The first part involved extracting DNA from tissues deposited in museums across Australia, sequencing the DNA, and inferring a phylogeny for the Australian blindsnake genus *Anilios*. In the second part I used the phylogeny to test hypotheses about the biogeographical history of the group, diversification dynamics, and how traits evolved in this continental radiation of an ecologically conserved group.
 
-## 2017-2018
+## 2017 - 2018
 
 ![Eggs of Puerto Rican Crested Anoles](assets/media\research_photos\mg-4256_orig.jpg){fig-align="center" width="70%"}
 
@@ -28,9 +30,9 @@ My PhD research consisted of two major parts. This first part involved extractin
 
 **Auburn University \| Auburn, AL, USA**
 
-My masters thesis research sought to find out if nesting behaviour by mother lizards can shield her eggs from non-ideal conditions. The fieldwork for this project was really fun because I got to walk around suburban Miami and look for anole eggs. We got some odd looks from passerby every now and again but every time was a great opportunity to tell a story about mother lizards and her eggs!
+My master's thesis research sought to find out if nesting behaviour by mother lizards can shield her eggs from non-ideal conditions. The fieldwork for this project was really fun because I got to walk around suburban Miami and look for anole eggs. We got some odd looks from passers-by every now and again but every time was a great opportunity to tell a story about mother lizards and her eggs!
 
-This project challenged me to organize a 2.5 month field work in Miami, not give in to mosquitoes, and to consider different ways to analyse data. I learned a lot about where anoles lay their eggs. Other than my thesis, I also assist in other on-going projects in the Warner Lab and act as a resident IT trouble shooter for my lab mates. Co-authors: Nathaniel Pavlik, Josh Hall, and Dan Warner
+This project challenged me to organise a 2.5-month field season in Miami, not give in to mosquitoes, and to consider different ways to analyse data. I learned a lot about where anoles lay their eggs. Other than my thesis, I also assisted with other ongoing projects in the Warner Lab and acted as the resident IT troubleshooter for my lab mates. Co-authors: Nathaniel Pavlik, Josh Hall, and Dan Warner
 
 ## 2015
 
@@ -42,4 +44,4 @@ This project challenged me to organize a 2.5 month field work in Miami, not give
 
 I was funded by the Gonzaga Off-Campus Research Experience grant to work with Dr. Dan Warner (who was at the University of Alabama-Birmingham at the time). For the first part of the summer, I collected nesting data on Western painted turtles (*Chrysemys picta*) in Round Lake State Park nearby Sandpoint, Idaho, as part of a long-term study on the geographic variation of temperature-dependent sex determination. For a month we camped in this lovely state park and went "turtling." It was a fabulous time with camp foods every night.
 
-The second part of the summer was at UAB. There, I conducted an experiment to test the effect of incubation conditions on survival and hatchling phenotypes of anole populations from urban and forested sites. This was the first time I learned to handle lizards and was responsible for caring for them. Prior to this experience, I was adverse to lizards, thanks to Tim Mitchell for showing me the ropes. After the summer, I analysed data and prepared manuscript that led to my first publication (Tiatragul et al. 2017).
+The second part of the summer was at UAB. There, I conducted an experiment to test the effect of incubation conditions on survival and hatchling phenotypes of anole populations from urban and forested sites. This was the first time I learned to handle lizards and was responsible for caring for them. Prior to this experience, I was averse to lizards, thanks to Tim Mitchell for showing me the ropes. After the summer, I analysed data and prepared the manuscript that led to my first publication (Tiatragul et al. 2017).
